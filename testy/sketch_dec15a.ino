@@ -13,8 +13,6 @@ digitalWrite(1,HIGH);
 delay(25);
 digitalWrite(1,LOW);
 delay(25);
-digitalWrite(1,HIGH);
-delay(25);
-digitalWrite(1,LOW);
-delay(25);
+
+delay(50);
 }
